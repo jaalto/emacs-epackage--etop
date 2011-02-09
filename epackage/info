@@ -9,8 +9,8 @@ Bugs:
 Upstream: Tom Wurgler <twurgler@goodyear.com>
 X-Upstream-Note: 2011-02-09 Email address probably no longer valid.
 Upstream-Bugs:
-Vcs-Type:
-Vcs-Url:
+Vcs-Type: http
+Vcs-Url: http://www.emacswiki.org/emacs/download/etop.el
 Vcs-Args:
 Vcs-Browser:
 Vcs-User:
