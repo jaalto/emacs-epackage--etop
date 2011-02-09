@@ -1,0 +1,24 @@
+Package: etop
+Section: extensions
+License: GPL-2+
+Depends: emacs (>= 21)
+Status: unmaintained stable
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: Tom Wurgler <twurgler@goodyear.com>
+X-Upstream-Note: 2011-02-09 Email address probably no longer valid.
+Upstream-Bugs:
+Vcs-Type:
+Vcs-Url:
+Vcs-Args:
+Vcs-Browser:
+Vcs-User:
+Vcs-Password:
+Homepage:
+Wiki: http://www.emacswiki.org/emacs/TopMode
+Commentary: etop.el
+Description: Run top(1) listing in Emacs buffer
+ Provides command M-x top to run top(1) program in separate buffer.
+ .
+ Note 2011-02-09 the code hasn't been touched since 2007.
