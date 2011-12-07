@@ -18,7 +18,7 @@ Vcs-Password:
 Homepage:
 Wiki: http://www.emacswiki.org/emacs/TopMode
 Commentary: etop.el
-Description: Run top(1) listing in Emacs buffer
+Description: run top(1) listing in Emacs buffer
  Provides command M-x top to run top(1) program in separate buffer.
  .
  Note 2011-02-09 the code hasn't been touched since 2007.
