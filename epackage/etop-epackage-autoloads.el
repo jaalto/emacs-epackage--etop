@@ -1,2 +1,2 @@
 (autoload 'etop "etop" "" t)
-(provide 'etop-epkg-autoloads)
+(provide 'etop-epackage-autoloads)

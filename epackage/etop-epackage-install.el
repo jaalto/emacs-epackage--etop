@@ -1,2 +1,2 @@
 (autoload 'etop "etop" "" t)
-(provide 'etop-epkg-install)
+(provide 'etop-epackage-install)
